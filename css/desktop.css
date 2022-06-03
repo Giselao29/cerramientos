@@ -1,0 +1,38 @@
+.titulo{
+    width:70%;
+    font-size: 0.8rem;
+}
+
+.aberturas{
+    width: 75%;
+    object-fit:contain;
+}
+
+.fa-bars{
+    display: none;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    font-size: 0.8rem;
+}
+
+.list{
+    margin: 1rem;
+} 
+
+.barra a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.icon-whatsapp{
+    position: fixed;
+    width: 3rem;
+    height: 3rem;
+    line-height: 3rem;
+    bottom: 3rem;
+    right: 3rem;
+    font-size: 2rem;
+}
